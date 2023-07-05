@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavana</h1>
 <h3 align="center">A passionte student working for his dreams</h3>
 
-- 🔭 I’m currently working on **Drone Remote Control**
+- 🔭 I’m currently working on **Real Time Chat**
 
 - I have worked on FLUTTER project [Montra](https://github.com/alexravi/montra)
 
