@@ -3,6 +3,14 @@
 
 - 🎓 I’m currently studying in [IIT GUWAHATI](https://www.iitg.ac.in/)
 
+- 🌱 I’m currently learning **Flutter,OpenCV,React etc.**
+
+- 💬 I've worked on [ChatSky](https://github.com/bhavana301/GazeGuide)
+
+- 👩🏻‍💻 I’ve worked on [GazeGuide](https://github.com/bhavana301/GazeGuide)
+
+- 📫 How to reach me **bhavanaperuri301@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@peruribhavana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@peruribhavana" height="30" width="40" /></a>
