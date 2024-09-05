@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PERURI BHAVANA</h1>
 <h3 align="center">A passionate student chasing her dreams</h3>
 
-- 🎓 I’m currently studying in [IIT GUWAHATI](https://www.iitg.ac.in/)
+- 🎓 I’m currently studying at [IIT GUWAHATI](https://www.iitg.ac.in/)
 
 - 🌱 I’m currently learning **Flutter,OpenCV,React etc.**
 
